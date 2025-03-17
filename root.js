@@ -1,1 +1,1 @@
-export var root_url ="http://192.168.5.254/";
+export var root_url ="http://192.168.5.254";
