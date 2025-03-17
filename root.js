@@ -1,1 +1,1 @@
-export var root_url =location.protocol;
+export var root_url ="http://127.0.0.1:8000";
